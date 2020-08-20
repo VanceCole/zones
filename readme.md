@@ -1,6 +1,6 @@
 ## Zones
 
-A module for FoundryVTT which allows you to draw zones for various effects:
+A module for FoundryVTT which allows you to draw zones on the map for various effects:
 - Fog of War (Simplefog)
 - Indoors (Disable GI & Weather Effects)
 - Light
